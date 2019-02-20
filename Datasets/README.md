@@ -1,8 +1,9 @@
-Beginner Datasets for Data Science Wednesday 
+Datasets for Data Science Wednesday 
 
-Documentation for Datasets  
-BlackFriday: https://www.kaggle.com/mehdidag/black-friday
+Documentation for Datasets
 
-Speed Dating Data: https://www.kaggle.com/annavictoria/speed-dating-experiment
+>BlackFriday: https://www.kaggle.com/mehdidag/black-friday
 
-Human Freedom Index: https://www.kaggle.com/gsutters/the-human-freedom-index
+>Speed Dating Data: https://www.kaggle.com/annavictoria/speed-dating-experiment
+
+>Human Freedom Index: https://www.kaggle.com/gsutters/the-human-freedom-index
